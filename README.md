@@ -1,0 +1,1 @@
+This repository contains a Python script demonstrating two less-common errors: ZeroDivisionError and ValueError. The script includes a function that handles these errors, illustrating a best practice. It also contains a solution file showing how to improve the error handling by using exception handling.
